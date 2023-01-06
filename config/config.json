@@ -1,0 +1,6 @@
+{
+    "uri": "mongodb://localhost:27017",
+    "mode": "debug",
+    "hostname": "localhost",
+    "port": 5000
+}
